@@ -7,6 +7,7 @@ The code is made for the Arduino Pro Micro 5V board with HID support.
 
 
 THIS IS A WORK IN PROGRESS AND I'M STILL TRYING THE CODE OUT, SO USE AT YOUR OWN RISK!
+(the code might change so it can be good to keep an eye here for updates)
 
 
 
