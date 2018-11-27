@@ -6,7 +6,7 @@ But the code wasn't made for simulationg keycombination presses (like shift+F1 a
 The code is made for the Arduino Pro Micro 5V board with HID support. 
 
 
-THIS IS A WORK IN PROGRESS AND I'M STILL TRYING THE CODE OUT, SO USE AT YOUR OWN RISK!
+THIS IS A WORK IN PROGRESS AND I'M STILL TRYING THE CODE OUT, SO USE AT YOUR OWN RISK!</br>
 (the code might change so it can be good to keep an eye here for updates)
 
 
