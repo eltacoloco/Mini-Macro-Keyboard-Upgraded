@@ -1,7 +1,8 @@
 # Mini-Macro-Keyboard-Upgraded
 
 I made the Stream Cheap (Mini Macro Keyboard) made by DaveM on thingiverse which emulates the unused F13-F24 keys.
-But the code wasn't made for simulationg keycombination presses (like shift+F1 and such and the games/programs I wanted to use it with don't support F13-F24), so I made some changes to the code to make it work like I want to. 
+But the code wasn't made for simulationg keycombination presses (like shift+F1 and such and the games/programs I wanted to use it with don't support F13-F24), so I made some changes to the code to make it work like I want to and easier to change the keyoutputs. 
+
 
 The code is made for the Arduino Pro Micro 5V board with HID support. 
 
